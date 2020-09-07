@@ -15,7 +15,7 @@ npm install -S @feizheng/next-const-noun
 ```js
 import '@feizheng/next-const-noun';
 
-//DOCS here!
+const nouns = nx.constNoun; // ['xxx', 'yyy']
 ```
 
 ## license
