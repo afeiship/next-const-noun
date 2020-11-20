@@ -1,6 +1,15 @@
+/*!
+ * name: @jswork/next-const-noun
+ * description: A lots of noun.
+ * homepage: https://github.com/afeiship/next-const-noun
+ * version: 1.0.0
+ * date: 2020-11-20 11:07:18
+ * license: MIT
+ */
+
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.constNoun = [
     '西红柿',
